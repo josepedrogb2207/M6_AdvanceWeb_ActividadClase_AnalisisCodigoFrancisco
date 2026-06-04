@@ -1,7 +1,7 @@
 # Análisis Técnico — Proyecto Final Programación Web
 
-> **Repositorio Frontend:** [gitFinalFrontProgramacionWeb](https://github.com/franciscogomez2722/gitFinalFrontProgramacionWeb)
-> **Repositorio Backend:** `backFinalProgramacionWeb-master`
+> 
+> 
 > **Stack:** React + Vite (Frontend) · Spring Boot 4.0.6 / Java 21 (Backend)
 
 ---
@@ -899,4 +899,3 @@ logging.level.com.exampleback=DEBUG
 
 ---
 
-*Documento generado como entregable de análisis técnico — Programación Web*
